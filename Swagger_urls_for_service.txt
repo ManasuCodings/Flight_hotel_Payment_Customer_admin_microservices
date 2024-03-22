@@ -1,0 +1,6 @@
+
+FlightService-Application: http://localhost:8081/swagger-ui/index.html
+HotelService-Application : http://localhost:8082/swagger-ui/index.html
+PaymentService-Application:http://localhost:8083/swagger-ui/index.html
+UserServer-Application    :http://localhost:8084/swagger-ui/index.html
+AdminService-Application : http://localhost:8085/swagger-ui/index.html
